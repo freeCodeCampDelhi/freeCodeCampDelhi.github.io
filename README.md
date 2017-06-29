@@ -17,7 +17,8 @@ to install everything required to run this project on your local.
 
 1. Clone this repository using
 	```
-  git clone https://github.com/freeCodeCampDelhi/freeCodeCampDelhi.github.io.git
+  git clone git@github.com:freeCodeCampDelhi/freeCodeCampDelhi.github.io.git
+
 	```
 
 2. Go inside main Django app [Instructional video on installing Django](https://youtu.be/qgGIqRFvFFk)
